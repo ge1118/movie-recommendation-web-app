@@ -2,7 +2,7 @@
 ## Project Overview
 This project presents a web-based movie recommender system that utilizes a collaborative filtering approach, built with Flask and JavaScript. Users can search for movies, receive personalized recommendations, and manage their favorites. The system employs a Single Value Decomposition (SVD) / Matrix Factorization technique to generate movie recommendations.
 
-## Project Overview
+## Key Features
 - Movie Recommendation: Offers recommendations as users type in the search bar.
 - Movie Suggestion: Offers alternative movie suggestions for users when their initial search doesn't match any titles in the database.
 - Personalized Recommendations: Utilizes collaborative filtering for tailored movie suggestions.
