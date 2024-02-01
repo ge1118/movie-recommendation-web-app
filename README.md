@@ -46,7 +46,7 @@ The system uses the ml-100k dataset from the [GroupLens Research Project](https:
 The recommender system employs SVD / Matrix Factorization for generating movie suggestions. It normalizes user rating data and computes similarities to suggest movies similar to a user's preferences. The script SoftwareProject_MovieRecommender_SVD.py contains the implementation details.
 
 ## Deployment
-This project is deployed on Heroku and is accessible online. You can interact with the live version of the application here: Movie Recommender Web App
+This project is deployed on Heroku and is accessible online. You can interact with the live version of the application here: [Movie Recommender Web App](https://movie-recommendation-webapp-225db83e8b75.herokuapp.com/)
 
 Deploying on Heroku offers a convenient and efficient hosting solution. However, it's important to note that applications hosted on Heroku's free tier may experience a delay when loading for the first time or after periods of inactivity. This happens because Heroku puts the application to sleep to conserve resources, leading to a cold start upon the next visit. Once the app is awakened, subsequent interactions should be faster until it goes into sleep mode again after a period of inactivity.
 
